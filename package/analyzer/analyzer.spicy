@@ -1,0 +1,7 @@
+# TODO: Define your analyzers here.
+
+module @namespace@;
+
+public type @name@ = unit {
+    payload: bytes &eod;
+};
